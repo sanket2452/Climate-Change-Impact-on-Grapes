@@ -23,6 +23,16 @@ This README provides an overview of the potential impacts of climate change on g
 - **Shifts in Pest Dynamics:** Climate change may alter the distribution and behavior of pests and diseases that affect grapevines, leading to increased pest pressure and the emergence of new threats.
 - **Fungal Diseases:** Warmer and wetter conditions can promote the spread of fungal diseases such as powdery mildew and botrytis, which can damage grape clusters and reduce yields.
 
+## Input Parameters
+
+- **Months**: The number of months.
+- **Airtemp mean**: Mean air temperature.
+- **Rel.Hum mean**: Mean relative humidity.
+- **Rain**: Amount of rainfall.
+- **Radiation mean**: Mean radiation.
+- **W.Speed mean**: Mean wind speed.
+- **Day length hrs.**: Duration of daylight hours.
+- **Leaf wetness hr.**: Hours of leaf wetness.
 
 
 <!-- ### Sustainable Practices
