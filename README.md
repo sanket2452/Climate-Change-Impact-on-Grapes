@@ -35,6 +35,17 @@ This README provides an overview of the potential impacts of climate change on g
 - **Leaf wetness hr.**: Hours of leaf wetness (hrs.).
 
 
+## Output Parameters
+
+- **Grape Quality**: Quality of grapes (e.g., Excellent, Good, Fair).
+- **Growth Rate**: Growth rate of grapevines (cm/day).
+- **Yield**: Grape yield (kg per vine).
+- **Grape Diseases**:
+  - Downy mildew
+  - Powdery mildew
+  - Grey mold
+  - Black rot
+  - Anthracnose
 
 
 
