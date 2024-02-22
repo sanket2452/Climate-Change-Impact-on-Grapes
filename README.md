@@ -23,27 +23,34 @@ This README provides an overview of the potential impacts of climate change on g
 - **Shifts in Pest Dynamics:** Climate change may alter the distribution and behavior of pests and diseases that affect grapevines, leading to increased pest pressure and the emergence of new threats.
 - **Fungal Diseases:** Warmer and wetter conditions can promote the spread of fungal diseases such as powdery mildew and botrytis, which can damage grape clusters and reduce yields.
 
-## Adaptation Strategies
+## Input Parameters
 
-### Vineyard Management
+- **Months**: The number of months.
+- **Airtemp mean**: Mean air temperature (°C).
+- **Rel.Hum mean**: Mean relative humidity (%).
+- **Rain**: Amount of rainfall (mm).
+- **Radiation mean**: Mean radiation (W/m²).
+- **W.Speed mean**: Mean wind speed (m/s).
+- **Day length hrs.**: Duration of daylight hours (hrs.).
+- **Leaf wetness hr.**: Hours of leaf wetness (hrs.).
 
-- **Site Selection:** Choosing suitable vineyard sites with consideration for temperature, elevation, and soil characteristics can help mitigate the impacts of climate change.
-- **Canopy Management:** Adjusting canopy density and orientation can provide shade and protect grapes from excessive sun exposure during hot periods.
-- **Irrigation Management:** Implementing efficient irrigation systems and water-saving techniques can help ensure adequate water supply for grapevines while minimizing water usage.
 
-### Cultivar Selection
+## Output Parameters
 
-- **Climate-Resilient Varieties:** Selecting grape varieties that are well-adapted to local climate conditions, including heat and drought tolerance, can improve resilience to climate change.
-- **Hybridization:** Breeding programs focused on developing new grape hybrids with enhanced resilience to temperature extremes and disease pressures can contribute to long-term adaptation efforts.
+- **Grape Quality**: Quality of grapes (e.g., Excellent, Good, Fair).
+- **Growth Rate**: Growth rate of grapevines (cm/day).
+- **Yield**: Grape yield (kg per vine).
+- **Grape Diseases**:
+  - Downy mildew
+  - Powdery mildew
+  - Grey mold
+  - Black rot
+  - Anthracnose
 
-### Sustainable Practices
 
-- **Regenerative Agriculture:** Adopting regenerative farming practices, such as cover cropping, composting, and organic soil management, can enhance soil health and resilience to climate variability.
-- **Carbon Footprint Reduction:** Implementing measures to reduce greenhouse gas emissions from vineyard operations, such as energy-efficient practices and renewable energy adoption, can contribute to broader climate mitigation efforts.
 
 ## Conclusion
 
 Climate change poses significant challenges for grape growers worldwide, requiring proactive adaptation strategies to maintain the resilience and sustainability of vineyard operations. By implementing climate-smart practices and investing in research and innovation, the grape industry can mitigate risks and seize opportunities for long-term success in a changing climate.
 
-For more information or inquiries, please contact [Your Contact Information].
 
