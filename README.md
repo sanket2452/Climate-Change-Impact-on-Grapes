@@ -26,21 +26,13 @@ This README provides an overview of the potential impacts of climate change on g
 ## Input Parameters
 
 - **Months**: The number of months.
-- **Airtemp mean**: Mean air temperature.
-- **Rel.Hum mean**: Mean relative humidity.
-- **Rain**: Amount of rainfall.
-- **Radiation mean**: Mean radiation.
-- **W.Speed mean**: Mean wind speed.
-- **Day length hrs.**: Duration of daylight hours.
-- **Leaf wetness hr.**: Hours of leaf wetness.
-
-
-<!-- ### Sustainable Practices
-
-- **Regenerative Agriculture:** Adopting regenerative farming practices, such as cover cropping, composting, and organic soil management, can enhance soil health and resilience to climate variability.
-- **Carbon Footprint Reduction:** Implementing measures to reduce greenhouse gas emissions from vineyard operations, such as energy-efficient practices and renewable energy adoption, can contribute to broader climate mitigation efforts. -->
-
-
+- **Airtemp mean**: Mean air temperature (°C).
+- **Rel.Hum mean**: Mean relative humidity (%).
+- **Rain**: Amount of rainfall (mm).
+- **Radiation mean**: Mean radiation (W/m²).
+- **W.Speed mean**: Mean wind speed (m/s).
+- **Day length hrs.**: Duration of daylight hours (hrs.).
+- **Leaf wetness hr.**: Hours of leaf wetness (hrs.).
 
 
 
@@ -50,5 +42,4 @@ This README provides an overview of the potential impacts of climate change on g
 
 Climate change poses significant challenges for grape growers worldwide, requiring proactive adaptation strategies to maintain the resilience and sustainability of vineyard operations. By implementing climate-smart practices and investing in research and innovation, the grape industry can mitigate risks and seize opportunities for long-term success in a changing climate.
 
-For more information or inquiries, please contact [Your Contact Information].
 
