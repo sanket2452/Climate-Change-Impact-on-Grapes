@@ -19,19 +19,20 @@ def main():
     # Button to make predictions
     if st.button("Predict"):
         # Create a DataFrame with the user input
-        user_input = pd.DataFrame({
-            'Airtemp': [Temp],
-            'Rel.Hum': [relativeHumidity],
-            'Rain': [rain],
-            'W.Speed': [windSpeed],
-            'leaf wetness hr.': [leafWetnessHour]
-        })
+        # user_input = pd.DataFrame({
+        #     'Airtemp': [Temp],
+        #     'Rel.Hum': [relativeHumidity],
+        #     'Rain': [rain],
+        #     'W.Speed': [windSpeed],
+        #     'leaf wetness hr.': [leafWetnessHour]
+        # })
 
-        # Use the loaded model to make predictions
-        prediction = tree_model.predict(user_input)
+        # # Use the loaded model to make predictions
+        # prediction = tree_model.predict(user_input)
 
-        # Display the predicted value to the user
-        st.write("Predicted value:", prediction)
+        # # Display the predicted value to the user
+        # st.write("Predicted value:", prediction)
+        st.write("Done")
 
 if __name__ == "__main__":
     main()
